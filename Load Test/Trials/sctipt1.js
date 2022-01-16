@@ -60,21 +60,7 @@ export default function (){
 
         group('Create duka:', function(){
             let payload = {
-                "kyosk": {
-                    "name": "Enterprise Shop",
-                    "location": {
-                        "latitude": "-1.2748854937296787",
-                        "longitude": "36.812859030305894"
-                    }
-                },
-                "customer": {
-                    "firstName": "dan",
-                    "lastName": "njoroge",
-                    "email": "daniel.njoroge@kyosk.app",
-                    "msisdn": "254725882457",
-                    "secondaryMsisdn": "",
-                    "smartphone": true
-                }
+                //test code
             };
 
             const params = {
